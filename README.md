@@ -1,3 +1,3 @@
 # iterm2-tmux-color-tabs
 
-Migrated as `iterm2-tmux-color-tabs/*` branches in [_omz-plugin_](https://github.com/remino/omz-plugin/tree/iterm2-tmux-color-tabs/main)
+Migrated in [`plugins/iterm2-tmux-color-tabs`](https://github.com/remino/omz-plugin/tree/main/plugins/iterm2-tmux-color-tabs) directory of [_omz-plugin_](https://github.com/remino/omz-plugin).
